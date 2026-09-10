@@ -41,7 +41,6 @@ Le notebook v2 documente une premiere version du modele ; le notebook v3 corresp
 |- Rapp_NG_TR.pbix                         # Rapport Power BI
 |- NG_Travel_modele_marge_XGBoost_v2.ipynb # Premiere version du modele XGBoost
 |- NG_Travel_modele_marge_XGBoost_v3.ipynb # Version finale du modele XGBoost
-|- NG_Travel_modele_marge_XGBoost.zip      # Archive des notebooks XGBoost
 |- donnees_nettoyees.csv                   # Donnees nettoyees utilisees par l'analyse
 |- donnees_nettoyees.xlsx                  # Donnees nettoyees au format Excel
 |- base_de_donnees.xlsx                    # Base source du projet
